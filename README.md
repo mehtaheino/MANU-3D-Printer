@@ -16,13 +16,6 @@ This repository contains comprehensive documentation for our products and servic
 https://github.com/mehtaheino/MANU-3DPrinter-Documentation/wiki
 
 ---
-## Projects
-### MANU 3D Printer Documentation: Status Tracker and Issue Management
-Track the status of Mehta Heino's product documentation, including to-do items, bug fixes, quality assurance tasks, ideas, and feature requests.
-
-https://github.com/orgs/mehtaheino/projects/7
-
----
 ## Discussions
 
 We’re using Discussions as a place to connect with other members of our community. We hope that you:
@@ -37,4 +30,10 @@ build together 💪.
 https://github.com/orgs/mehtaheino/discussions
 
 ---
+## Projects
+### MANU 3D Printer Documentation: Status Tracker and Issue Management
+Track the status of Mehta Heino's product documentation, including to-do items, bug fixes, quality assurance tasks, ideas, and feature requests.
 
+https://github.com/orgs/mehtaheino/projects/7
+
+---
