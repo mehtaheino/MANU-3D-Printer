@@ -19,3 +19,6 @@ Track the status of Mehta Heino's product documentation, including to-do items, 
 ## Discussions
 - https://github.com/orgs/mehtaheino/discussions
 
+---
+## Helpdesk – Customer Support
+`support@mehtaheino.com`
