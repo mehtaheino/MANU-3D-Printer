@@ -9,6 +9,8 @@ Documentation for the MANU 3D Printer, Model E1Axx and F1Axx
 ---
 ## Product Documentation Link
 
+This repository contains comprehensive documentation for our products and services. If you encounter any issues or have any questions, please feel free to submit a discussion topic. We are committed to providing you with the best possible support and will promptly address any concerns you may have.
+
 https://github.com/mehtaheino/MANU-3DPrinter-Documentation/wiki
 
 ---
