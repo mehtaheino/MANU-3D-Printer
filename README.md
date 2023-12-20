@@ -32,6 +32,7 @@ https://github.com/mehtaheino/MANU-3D-Printer/wiki
 * [Step 6. Slicing best practices Generating Gcode](https://github.com/mehtaheino/MANU-3D-Printer/wiki/Step-6.-Slicing-best-practices---Generating-Gcode)
 * [Step 7. Extruder advanced guide](https://github.com/mehtaheino/MANU-3D-Printer/wiki/Step-7.-Extruder-advanced-guide)
 * [Discussion (Q&A) on GitHub](https://github.com/orgs/mehtaheino/discussions)
+---
 
 # Chocolate Printer Documentation
 Please refer to the following links for documentation specific to the Chocolate Printer:
