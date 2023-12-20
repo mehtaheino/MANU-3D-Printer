@@ -19,7 +19,7 @@ Please feel free to reach out if you require assistance with our products or ser
 
 Please use the navigation menu to explore the comprehensive documentation for the MANU 3D Printer.
 
-## Home
+## Home - GitHub Wiki Page
 https://github.com/mehtaheino/MANU-3D-Printer/wiki
 
 ## MANU 3D Printer, an extrusion-based FFF printer
