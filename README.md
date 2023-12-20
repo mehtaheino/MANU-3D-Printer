@@ -15,13 +15,6 @@ Please feel free to reach out if you require assistance with our products or ser
 * Printer Documentation: https://github.com/mehtaheino/MANU-3D-Printer/wiki
 * Discussion (Q&A) on GitHub: https://github.com/orgs/mehtaheino/discussions
 
-## Chocolate Printer Documentation
-
-Please refer to the following links for documentation specific to the Chocolate Printer:
-
-* Printer Documentation: https://github.com/mehtaheino/Chocolate-3D-Printer/wiki
-* Discussion (Q&A) on GitHub: https://github.com/orgs/mehtaheino/discussions
-
 ## Table of Contents
 
 Please use the navigation menu to explore the comprehensive documentation for the MANU 3D Printer.
@@ -39,6 +32,12 @@ https://github.com/mehtaheino/MANU-3D-Printer/wiki
 * [Step 6. Slicing best practices Generating Gcode](https://github.com/mehtaheino/MANU-3D-Printer/wiki/Step-6.-Slicing-best-practices---Generating-Gcode)
 * [Step 7. Extruder advanced guide](https://github.com/mehtaheino/MANU-3D-Printer/wiki/Step-7.-Extruder-advanced-guide)
 * [Discussion (Q&A) on GitHub](https://github.com/orgs/mehtaheino/discussions)
+
+# Chocolate Printer Documentation
+Please refer to the following links for documentation specific to the Chocolate Printer:
+
+* Printer Documentation: https://github.com/mehtaheino/Chocolate-3D-Printer/wiki
+* Discussion (Q&A) on GitHub: https://github.com/orgs/mehtaheino/discussions
 
 ## MANU Food 3D Printer, Piston Extrusion-Based Chocolate 3D Printer
 * For chocolate Printer: https://github.com/mehtaheino/Chocolate-3D-Printer/wiki
