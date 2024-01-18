@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="FF60A 1.0.0 E1 S3D" version="2021-11-10 09:28:07" app="S3D-Software 4.1.2">
+<profile name="FF60A 1.0.0 E1 S3D" version="2024-01-18 18:58:07" app="S3D-Software 4.1.2">
   <baseProfile>Default</baseProfile>
   <printMaterial>TPU</printMaterial>
   <printQuality>Medium</printQuality>
@@ -31,7 +31,7 @@
   <startPointOriginY>0</startPointOriginY>
   <sequentialIslands>1</sequentialIslands>
   <spiralVaseMode>0</spiralVaseMode>
-  <firstLayerHeightPercentage>100</firstLayerHeightPercentage>
+  <firstLayerHeightPercentage>200</firstLayerHeightPercentage>
   <firstLayerWidthPercentage>50</firstLayerWidthPercentage>
   <firstLayerUnderspeed>0.5</firstLayerUnderspeed>
   <useRaft>0</useRaft>
@@ -70,7 +70,7 @@
   <internalInfillAngles>45,-45</internalInfillAngles>
   <overlapInternalInfillAngles>0</overlapInternalInfillAngles>
   <externalInfillAngles>45,-45</externalInfillAngles>
-  <generateSupport>1</generateSupport>
+  <generateSupport>0</generateSupport>
   <supportExtruder>0</supportExtruder>
   <supportInfillPercentage>25</supportInfillPercentage>
   <supportExtraInflation>0.4</supportExtraInflation>
